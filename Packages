@@ -1,3 +1,23 @@
+Package: com.fouadraheb.appdata
+Architecture: iphoneos-arm64
+Version: 1.4.0
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 792
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs//AppData.com.fouadraheb.appdata.deb
+Size: 113472
+MD5sum: ab1ba55281f0dd970c08b1bc4cf45478
+SHA1: cea51faf2e88e7ebcda0c97f28fc936f4dc59574
+SHA256: 6924c191df342ca703a00c0247db0c35d05750c628de2dbf9652c81d7a7e3cfb
+SHA512: 1b63da91405778659bd07c5f21c27650fcf2bdbb49ae2768352f08080a9f6584ad7fcbc3daa3f8b86170d07c0f53aa6c01fc60e870bcf5e1b4ff14ed1f331930
+Description: View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
+Name: AppData
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+
 Package: com.addiezone.fivemitsuhadopaminesettings
 Architecture: iphoneos-arm64
 Version: 0.1
