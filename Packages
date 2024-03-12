@@ -70,18 +70,18 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Package: com.0xkuj.contactsextended
 Version: 1.9.2
 Architecture: iphoneos-arm64
-Maintainer: 0xkuj
+Maintainer: iosghost
 Installed-Size: 520
 Depends: firmware (>= 14)
 Conflicts: com.packetfahrer.swipetodeletecontact, org.thebigboss.elite
-Filename: ./debs/ContactsExtended.deb
-Size: 75732
-MD5sum: bce020edd7c02bd1dafc6e3ba79a9f52
-SHA1: 0602ce4bf23b1f7ee33d76c3424807c5a61f7df4
-SHA256: a2317f5322f1bbe9c477cd104ce0147644d4b2ade159afc1517ee1352bca41fb
+Filename: ./debs/com.0xkuj.contactsextended_1.9.2_iphoneos-arm64.deb
+Size: 75800
+MD5sum: 6846aa3bf7da5f6a1964675a44c8d8e9
+SHA1: 2670236d91c48127ff055ed4ee0a661be739e828
+SHA256: b5986c0f384329cbe8d7d24fff7618bc0581292c891ed594e58e6a6b0c895b0a
 Section: Tweaks
-Description: Your contacts - with more options!
-Author: 0xkuj
+Description: تسمح لك بالسحب لكل جهة اتصال  في السجل او الاسماء وتقدر تحدد وش تبي تتحدث معة واتساب،انتسغرام،تويتر،الخ،،
+Author: iosghost
 Name: Contacts Extended
 
 Package: com.34306.2nd
