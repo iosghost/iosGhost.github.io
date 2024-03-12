@@ -1,63 +1,3 @@
-Package: com.addiezone.fivemitsuhadopaminesettings
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: Addie Zone <me@addie.lol>
-Installed-Size: 879
-Depends: mobilesubstrate, preferenceloader, com.ryannair05.mitsuhaforever (>=1.4.0), ws.hbang.alderis, firmware (>=15.0)
-Replaces: com.addiezone.onemitsuhadopaminesettings, com.addiezone.threemitsuhadopaminesettings, com.addiezone.fourmitsuhadopaminesettings, com.addiezone.twomitsuhadopaminesettings, com.addiezone.sixmitsuhadopaminesettings
-Filename: ./debs/com.addiezone.fivemitsuhadopaminesettings_0.1_iphoneos-arm64.deb
-Size: 1370
-MD5sum: 0b27479d45234f3792b122b6d5402d84
-SHA1: dc53ff6667d1bbee2417df91bd0d29c410087027
-SHA256: 2d933390a0d9a0a65dd4c585c2e6043752ff6554132728d68c8238f3d4cd1066
-Section: Addons
-Description: The preferences are broken, so I have changed a number of settings in Mitsuha Forever and saved the .plist preferences file. Please install the package of the settings you want. Enables LS Background, Homescreen, and Spotify. All others are disabled. FFT is disabled and color is dynamic.
-Tag: compatible_min::ios15.0
-Author: Addie Zone <me@addie.lol>
-Depiction: https://addiezone.github.io/depictions/com.addiezone.fivemitsuhadopaminesettings.json
-Icon: https://addiezone.github.io/Icons/Mitsuha.png
-Name: Mitsuha Dopamine Preferences (NO LS NOTIF + SPOTIFY + NO CC + NO FFT)
-
-Package: com.addiezone.onemitsuhadopaminesettings
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: Addie Zone <me@addie.lol>
-Installed-Size: 879
-Depends: mobilesubstrate, preferenceloader, com.ryannair05.mitsuhaforever (>=1.4.0), ws.hbang.alderis, firmware (>=15.0)
-Replaces: com.addiezone.twomitsuhadopaminesettings, com.addiezone.threemitsuhadopaminesettings, com.addiezone.fourmitsuhadopaminesettings, com.addiezone.fivemitsuhadopaminesettings, com.addiezone.sixmitsuhadopaminesettings
-Filename: ./debs/com.addiezone.onemitsuhadopaminesettings_0.1_iphoneos-arm64.deb
-Size: 1362
-MD5sum: aa2cf860d9b6b8ad2ccc75f91847a1f5
-SHA1: 3fc86acfdf75318cf6b27be0df3494602700ee1b
-SHA256: 5525e3c43bb83c03df022fcd5c96b89f6ca598483ae14faeb1fead901d2b34bb
-Section: Addons
-Description: The preferences are broken, so I have changed a number of settings in Mitsuha Forever and saved the .plist preferences file. Please install the package of the settings you want. Enables LS Background, Homescreen, Spotify, and Control Center. All others are disabled. No FFT and color is dynamic.
-Tag: compatible_min::ios15.0
-Author: Addie Zone <me@addie.lol>
-Depiction: https://addiezone.github.io/depictions/com.addiezone.onemitsuhadopaminesettings.json
-Icon: https://addiezone.github.io/Icons/Mitsuha.png
-Name: Mitsuha Dopamine Preferences (NO LS NOTIF + SPOTIFY + CC)
-
-Package: com.addiezone.sixmitsuhadopaminesettings
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: Addie Zone <me@addie.lol>
-Installed-Size: 879
-Depends: mobilesubstrate, preferenceloader, com.ryannair05.mitsuhaforever (>=1.4.0), ws.hbang.alderis, firmware (>=15.0)
-Replaces: com.addiezone.onemitsuhadopaminesettings, com.addiezone.threemitsuhadopaminesettings, com.addiezone.fourmitsuhadopaminesettings, com.addiezone.fivemitsuhadopaminesettings, com.addiezone.twomitsuhadopaminesettings
-Filename: ./debs/com.addiezone.sixmitsuhadopaminesettings_0.1_iphoneos-arm64.deb
-Size: 1372
-MD5sum: 58a792740235a0ed435ab75f7b649f3b
-SHA1: acfc06accccc870041f2020a4277fc20edebc0c7
-SHA256: 49700b3a0a4332e93d30996cf488045893cb7cf06e0481123313e13ce1e0ffcc
-Section: Addons
-Description: The preferences are broken, so I have changed a number of settings in Mitsuha Forever and saved the .plist preferences file. Please install the package of the settings you want. Enables LS Background, Homescreen, and Spotify. All others are disabled. FFT is enabled and color is dynamic.
-Tag: compatible_min::ios15.0
-Author: Addie Zone <me@addie.lol>
-Depiction: https://addiezone.github.io/depictions/com.addiezone.sixmitsuhadopaminesettings.json
-Icon: https://addiezone.github.io/Icons/Mitsuha.png
-Name: Mitsuha Dopamine Preferences (NO LS NOTIF + SPOTIFY + NO CC + FFT)
-
 Package: com.fouadraheb.appdata
 Version: 1.4.0
 Architecture: iphoneos-arm64
@@ -76,4 +16,44 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
 Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
 Name: AppData
 Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
+
+Package: com.iosghost.safariblocker
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: iosghost <9yei20@gmail.com>
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.iosghost.safariblocker_1.3.1_iphoneos-arm64.deb
+Size: 38740
+MD5sum: 592e61b3da7d8245548baa4a14b3cb43
+SHA1: d02bdfbca7bd6904cae4624f20fb080abf6801c0
+SHA256: 2d20bbbe207c0e1200ce964e390031229744f61b3a94276b04e1bf3dbaae37ff
+Section: Tweaks
+Description: Block New Tabs with Options!
+Author: iosghost <9yei20@gmail.com>
+Depiction: https://iosghost.github.io/repo/depictions/index.html?packageId=com.iosghost.safariblocker
+Icon: https://iosghost.github.io/repo/api/packageinfo/com.iosghost.safariblocker/icon.png
+Name: SafariBlocker
+Sileodepiction: https://iosghost.github.io/repo/depictions/native/com.iosghost.safariblocker.json
+
+Package: com.wwg135.visibleisland
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: iosghost <9yei20@gmail.com>
+Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: ./debs/com.wwg135.visibleisland_2.0_iphoneos-arm64.deb
+Size: 28712
+MD5sum: 33531adcb8cec1dc1f08f811dd30c44c
+SHA1: f3506ca2bad2d6f4c511ba26cfb1fdb5d54cc6d1
+SHA256: abb44b13b8a29392fd3ddab4d2b266ae6213e8afabc4e57047072ff96c697ddb
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: 在旧设备上启用、修复和自定义灵动岛。（由M哥汉化）
+Author: iosghost <9yei20@gmail.com>
+Depiction: https://iosghost.github.io/repo/depiction/web/com.iosghost.visibleisland.html
+Icon: https://iosghost.github.io/repo/assets/com.iosghost.visibleisland/icon.png
+Moderndepiction: https://iosghost.github.io/repo/depiction/native/com.iosghost.visibleisland.json
+Name: VisibleIsland
+Sileodepiction: https://iosghost.github.io/repo/depiction/native/com.iosghost.visibleisland.json
+Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
 
