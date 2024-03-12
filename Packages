@@ -1,0 +1,63 @@
+Package: com.addiezone.fivemitsuhadopaminesettings
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: Addons
+Maintainer: Addie Zone <me@addie.lol>
+Installed-Size: 879
+Depends: mobilesubstrate, preferenceloader, com.ryannair05.mitsuhaforever (>=1.4.0), ws.hbang.alderis, firmware (>=15.0)
+Replaces: com.addiezone.onemitsuhadopaminesettings, com.addiezone.threemitsuhadopaminesettings, com.addiezone.fourmitsuhadopaminesettings, com.addiezone.twomitsuhadopaminesettings, com.addiezone.sixmitsuhadopaminesettings
+Filename: ./debs//com.addiezone.fivemitsuhadopaminesettings_0.1_iphoneos-arm64.deb
+Size: 1370
+MD5sum: 0b27479d45234f3792b122b6d5402d84
+SHA1: dc53ff6667d1bbee2417df91bd0d29c410087027
+SHA256: 2d933390a0d9a0a65dd4c585c2e6043752ff6554132728d68c8238f3d4cd1066
+SHA512: 5ebe6018b420ca55ca0a068e6ec588deac35f8d34de4e08ae11e1bac47b3005249a7283ed5cda1e559118675e2d48a66ba29e4954e02b8041904e4065fadc327
+Description: The preferences are broken, so I have changed a number of settings in Mitsuha Forever and saved the .plist preferences file. Please install the package of the settings you want. Enables LS Background, Homescreen, and Spotify. All others are disabled. FFT is disabled and color is dynamic.
+Tag: compatible_min::ios15.0
+Author: Addie Zone <me@addie.lol>
+Name: Mitsuha Dopamine Preferences (NO LS NOTIF + SPOTIFY + NO CC + NO FFT)
+Icon: https://addiezone.github.io/Icons/Mitsuha.png
+Depiction: https://addiezone.github.io/depictions/com.addiezone.fivemitsuhadopaminesettings.json
+
+Package: com.addiezone.onemitsuhadopaminesettings
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: Addons
+Maintainer: Addie Zone <me@addie.lol>
+Installed-Size: 879
+Depends: mobilesubstrate, preferenceloader, com.ryannair05.mitsuhaforever (>=1.4.0), ws.hbang.alderis, firmware (>=15.0)
+Replaces: com.addiezone.twomitsuhadopaminesettings, com.addiezone.threemitsuhadopaminesettings, com.addiezone.fourmitsuhadopaminesettings, com.addiezone.fivemitsuhadopaminesettings, com.addiezone.sixmitsuhadopaminesettings
+Filename: ./debs//com.addiezone.onemitsuhadopaminesettings_0.1_iphoneos-arm64.deb
+Size: 1362
+MD5sum: aa2cf860d9b6b8ad2ccc75f91847a1f5
+SHA1: 3fc86acfdf75318cf6b27be0df3494602700ee1b
+SHA256: 5525e3c43bb83c03df022fcd5c96b89f6ca598483ae14faeb1fead901d2b34bb
+SHA512: acdbb9a2f8b9703cb1dd0c270e57a10434471b9525273794cdee737dace76cf002d51e239ce095d1c78dda186d40c4a6a26707fd4fcbc48a61e6fadbc26be32f
+Description: The preferences are broken, so I have changed a number of settings in Mitsuha Forever and saved the .plist preferences file. Please install the package of the settings you want. Enables LS Background, Homescreen, Spotify, and Control Center. All others are disabled. No FFT and color is dynamic.
+Tag: compatible_min::ios15.0
+Author: Addie Zone <me@addie.lol>
+Name: Mitsuha Dopamine Preferences (NO LS NOTIF + SPOTIFY + CC)
+Icon: https://addiezone.github.io/Icons/Mitsuha.png
+Depiction: https://addiezone.github.io/depictions/com.addiezone.onemitsuhadopaminesettings.json
+
+Package: com.addiezone.sixmitsuhadopaminesettings
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: Addons
+Maintainer: Addie Zone <me@addie.lol>
+Installed-Size: 879
+Depends: mobilesubstrate, preferenceloader, com.ryannair05.mitsuhaforever (>=1.4.0), ws.hbang.alderis, firmware (>=15.0)
+Replaces: com.addiezone.onemitsuhadopaminesettings, com.addiezone.threemitsuhadopaminesettings, com.addiezone.fourmitsuhadopaminesettings, com.addiezone.fivemitsuhadopaminesettings, com.addiezone.twomitsuhadopaminesettings
+Filename: ./debs//com.addiezone.sixmitsuhadopaminesettings_0.1_iphoneos-arm64.deb
+Size: 1372
+MD5sum: 58a792740235a0ed435ab75f7b649f3b
+SHA1: acfc06accccc870041f2020a4277fc20edebc0c7
+SHA256: 49700b3a0a4332e93d30996cf488045893cb7cf06e0481123313e13ce1e0ffcc
+SHA512: 842289b73a4d41da31aaa62afe28a64d859b54b839b64d707b6ace5342a5aefca5e073059c380aeddc424155224e760e64ddabeed15d38f3bd699df115aab865
+Description: The preferences are broken, so I have changed a number of settings in Mitsuha Forever and saved the .plist preferences file. Please install the package of the settings you want. Enables LS Background, Homescreen, and Spotify. All others are disabled. FFT is enabled and color is dynamic.
+Tag: compatible_min::ios15.0
+Author: Addie Zone <me@addie.lol>
+Name: Mitsuha Dopamine Preferences (NO LS NOTIF + SPOTIFY + NO CC + FFT)
+Icon: https://addiezone.github.io/Icons/Mitsuha.png
+Depiction: https://addiezone.github.io/depictions/com.addiezone.sixmitsuhadopaminesettings.json
+

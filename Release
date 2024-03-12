@@ -1,0 +1,11 @@
+Origin: jesterFile's Repo
+Label: jesterFile
+Suite: stable
+Version: 1.0
+Codename: jester
+Architecture: iphoneos-arm
+Components: main
+Description: jesterFile Best Repo for all Packages! Cydia + Sileo + Installer + Zebra! & Saily.
+MD5Sum:
+ a686489a63a457bc2e6d10e93885f9d4 4466 Packages
+ 7c82ab50918fb61fd475af8b95f7dcf4 1506 Packages.bz2

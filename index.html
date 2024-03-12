@@ -1,0 +1,309 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Ghost ✨</title>
+    <link rel="icon" href="./assets/images/favicon.png" class="next-head" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+<style>
+
+* {
+  font-family: 'Nunito';
+  src: url("./assets/fonts/nunito.woff2") format('woff2'),
+    url('./assetsfonts/nunito.woff') format('woff');
+  color: white;
+}
+
+body {
+  background-color: #292C30;
+}
+
+a {
+  text-decoration: none;
+}
+
+/*Wrapper*/
+.wrapper {
+  position: absolute;
+  width: calc(100% - 10px);
+  text-align: center;
+  max-width: 850px;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+/* Columns */
+.column {
+    float: left;
+    width: 50%;
+}
+
+/* Responsive layout - Single Column on Mobile */
+@media screen and (max-width: 850px) {
+    .column {
+        width: 100%;
+    }
+    .wrapper {
+      top: 0;
+      -ms-transform: translate(-50%, 0);
+      transform: translate(-50%, 0);
+    }
+}
+
+
+
+/*Subtitles above boxes*/
+.subtitle {
+  font-size: 20pt;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+h1 {
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 0;
+}
+h2 {
+  font-size: 20px;
+  font-weight: normal;
+  margin: 0;
+}
+
+.bigbox {
+  background: #2F3439;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+  text-align: left;
+  border-radius: 25px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  width: calc(100% - 70px);
+  max-width: 350px;
+  line-height: 1.5;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.03);
+  border-width: 2px;
+}
+
+/* Button */
+.button {
+  background: linear-gradient(to right, #55B49D , #2B7DCA);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+  text-align: center;
+  border-radius: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color:white;
+  font-size: 14pt;
+  max-height: 50px;
+  line-height: 50px;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+}
+.button:hover {
+  filter: hue-rotate(90deg);
+  font-size: 16pt;
+}
+
+.twitter {
+  width: 70px;
+  margin-right: 20px;
+}
+
+.packageicon {
+  width: 37px;
+  height: 37px;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+}
+.packageBox:hover .packageicon {
+  width: 57px;
+  height: 57px;
+}
+
+.packageIconHolder {
+  width: 37px;
+  height: 37px;
+  padding: 10px;
+  border-radius: 15px;
+  left: 16px;
+  top: 14px;
+  z-index: 0;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  position: absolute;
+}
+.packageBox:hover .packageIconHolder {
+  padding: 55px;
+  left: -35px;
+  top: -41px;
+  width: 500px;
+  height: 300px;
+}
+
+.packageContentHolder {
+  position: absolute;
+  left: 110px;
+  top: 16px;
+  max-width: 290px;
+  overflow: hidden;
+  max-height: 80px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+}
+.packageBox:hover .packageContentHolder {
+  top: 15px;
+}
+
+.packageTitle {
+  font-weight: bold;
+  font-size: 14pt;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+}
+.packageBox:hover .packageTitle {
+  font-size: 16pt;
+}
+
+.packageDescription, .packageGreyDescription {
+  font-weight: normal;
+  font-size: 12.5pt;
+}
+.packageGreyDescription {
+  color: rgba(255,255,255,.6)
+}
+
+.packageBox {
+  background: #2F3439;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+  text-align: left;
+  color: white;
+  border-radius: 25px;
+  padding: 15px;
+  line-height: 1.5;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.03);
+  border-width: 2px;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+  min-height: 55px;
+  max-height: 55px;
+  width: calc(100% - 60px);
+  max-width: 350px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  position: relative;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+}
+
+p {
+  font-size: 12.5pt;
+}
+
+</style>
+
+<body>
+
+  <div class="wrapper">
+
+    <div class="column">
+      <div class="subtitle">Ghost's Repository</div>
+
+
+
+        <a href="sileo://source/https://iosghost.github.io/">
+          <div class="packageBox">
+            <div class="packageIconHolder" style="background: linear-gradient(to right, #09abaf , #2cd3c7)">
+              <img src="./assets/images/repo.png" class="packageicon";>
+            </div>
+            <div class="packageContentHolder">
+              <span class="packageTitle">Add to Sileo</span>
+              <br><span class="packageDescription">Ghost Repo ✨</span>
+            </div>
+          </div>
+          </a>
+
+
+        
+        <div class="subtitle">Social Links</div>
+
+        <a href="https://x.com/iosgho6t">
+          <div class="packageBox">
+            <div class="packageIconHolder" style="background: linear-gradient(to right, #55ACEF , #0A76E7)">
+              <img src="./assets/images/twitter.png" class="packageicon";>
+            </div>
+            <div class="packageContentHolder">
+              <span class="packageTitle">Twitter</span>
+              <br><span class="packageDescription">Ghost ✨</span>
+            </div>
+          </div>
+        </a>
+
+        <a href="https://t.me/iosGhost">
+          <div class="packageBox">
+            <div class="packageIconHolder" style="background: linear-gradient(to right, #55ACEF , #0A76E7)">
+              <img src="./assets/images/telegram.png" class="packageicon";>
+            </div>
+            <div class="packageContentHolder">
+              <span class="packageTitle">Telegram</span>
+              <br><span class="packageDescription">Ghost ✨</span>
+            </div>
+          </div>
+        </a>
+
+        <a href="https://github.com/iosghost">
+          <div class="packageBox">
+            <div class="packageIconHolder" style="background: linear-gradient(to right, #822bf8 , #a45efa)">
+              <img src="./assets/images/github.png" class="packageicon";>
+            </div>
+            <div class="packageContentHolder">
+              <span class="packageTitle">Github</span>
+              <br><span class="packageDescription">Ghost</span>
+            </div>
+          </div>
+        </a>
+
+        <a href="https://youtube.com/@99i6?si=yPnuHh46NQQsOjYF">
+          <div class="packageBox">
+            <div class="packageIconHolder" style="background: linear-gradient(to right, #bf2b28 , #fd403e)">
+              <img src="./assets/images/youtube.png" class="packageicon";>
+            </div>
+            <div class="packageContentHolder">
+              <span class="packageTitle">Youtube</span>
+              <br><span class="packageDescription">Ghost</span>
+            </div>
+          </div>
+        </a>
+    </div>
+</body>
