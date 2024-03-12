@@ -1,59 +1,62 @@
-Package: com.fouadraheb.appdata
-Version: 1.4.0
-Architecture: iphoneos-arm64
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 792
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Filename: ./debs/AppData.com.fouadraheb.appdata.deb
-Size: 113472
-MD5sum: ab1ba55281f0dd970c08b1bc4cf45478
-SHA1: cea51faf2e88e7ebcda0c97f28fc936f4dc59574
-SHA256: 6924c191df342ca703a00c0247db0c35d05750c628de2dbf9652c81d7a7e3cfb
-Section: Tweaks
-Description: View & Manage Applications Data from your Home Screen
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
-Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
-Name: AppData
-Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
-
 Package: com.iosghost.safariblocker
-Version: 1.3.1
 Architecture: iphoneos-arm64
+Version: 1.3.1
+Section: Tweaks
 Maintainer: iosghost <9yei20@gmail.com>
 Installed-Size: 424
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.iosghost.safariblocker_1.3.1_iphoneos-arm64.deb
-Size: 38740
-MD5sum: 592e61b3da7d8245548baa4a14b3cb43
-SHA1: d02bdfbca7bd6904cae4624f20fb080abf6801c0
-SHA256: 2d20bbbe207c0e1200ce964e390031229744f61b3a94276b04e1bf3dbaae37ff
-Section: Tweaks
-Description: Block New Tabs with Options!
+Filename: ./debs//com.iosghost.safariblocker_1.3.1_iphoneos-arm64.deb
+Size: 38892
+MD5sum: d5aed7647ededa7dee4ce798741629dc
+SHA1: 6b9a85ca1329c86000b5ab256c6027c18270c85e
+SHA256: 051728b15124be635b3bd47cdc8b4008d77d6e32bde6df2e008cb8bb0c6e28bd
+SHA512: fec094d20a4005d3f16ad887443704e68359b2bc2f887f4d3d373cc1d4b395855e5fe4ac125a56dfea6769385696bb35b5117f8ff0d2750c01a4d0e423a16eb7
+Description: بشكل مجاني.. مفيدة
 Author: iosghost <9yei20@gmail.com>
+‏وظيفتها: طلب الاذن منك لمنع فتح اعلانات النوافذ المنبثقة أو الصفحات المنبثقة تلقائيًا في متصفح Safari
 Depiction: https://iosghost.github.io/repo/depictions/index.html?packageId=com.iosghost.safariblocker
-Icon: https://iosghost.github.io/repo/api/packageinfo/com.iosghost.safariblocker/icon.png
 Name: SafariBlocker
-Sileodepiction: https://iosghost.github.io/repo/depictions/native/com.iosghost.safariblocker.json
+SileoDepiction: https://iosghost.github.io/repo/depictions/native/com.iosghost.safariblocker.json
+Icon: https://iosghost.github.io/repo/api/packageinfo/com.iosghost.safariblocker/icon.png
 
 Package: com.wwg135.visibleisland
-Version: 2.0
 Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
 Maintainer: iosghost <9yei20@gmail.com>
 Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
-Filename: ./debs/com.wwg135.visibleisland_2.0_iphoneos-arm64.deb
-Size: 28712
-MD5sum: 33531adcb8cec1dc1f08f811dd30c44c
-SHA1: f3506ca2bad2d6f4c511ba26cfb1fdb5d54cc6d1
-SHA256: abb44b13b8a29392fd3ddab4d2b266ae6213e8afabc4e57047072ff96c697ddb
-Section: Tweaks
+Filename: ./debs//com.wwg135.visibleisland_2.0_iphoneos-arm64.deb
+Size: 28836
+MD5sum: 2d27713a8bcf844505036637f0c327e4
+SHA1: ce189eb0d8276eaebf263cea9ed09b86c0d41a8d
+SHA256: 8eb347d020e5626638d04256e67bad514beca25661cab66585ba4c30c9da5634
+SHA512: 4088b2eb15ef3b72107083b7b8f3a9c204f5cd6493981e31c747a2b8bb84851e4775a181a2cc85a0e967aa8f7a79acd85a632b55dffc30d9cdef4be2bef825f9
 Homepage: https://shuga.co/
-Description: 在旧设备上启用、修复和自定义灵动岛。（由M哥汉化）
+Description: اداه خفيفة وجميلة تقوم بجلب لك شكل مشغل الموسيقى في الشاشة على شكل Dynamicisland والقدرة على التحكم في محاذات  الايطار والتحكم في شفافيتة
 Author: iosghost <9yei20@gmail.com>
 Depiction: https://iosghost.github.io/repo/depiction/web/com.iosghost.visibleisland.html
-Icon: https://iosghost.github.io/repo/assets/com.iosghost.visibleisland/icon.png
-Moderndepiction: https://iosghost.github.io/repo/depiction/native/com.iosghost.visibleisland.json
 Name: VisibleIsland
-Sileodepiction: https://iosghost.github.io/repo/depiction/native/com.iosghost.visibleisland.json
+SileoDepiction: https://iosghost.github.io/repo/depiction/native/com.iosghost.visibleisland.json
+ModernDepiction: https://iosghost.github.io/repo/depiction/native/com.iosghost.visibleisland.json
 Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
+Icon: https://iosghost.github.io/repo/assets/com.iosghost.visibleisland/icon.png
+
+Package: xyz.cypwn.fiona
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: iosghost
+Depends: mobilesubstrate, firmware (>= 14.0), com.opa334.altlist, ws.hbang.alderis
+Filename: ./debs//xyz.cypwn.fiona_1.0_iphoneos-arm64.deb
+Size: 96368
+MD5sum: 2d897edf22be0b2f7f7b449cceba8e76
+SHA1: 3368095acdc875b9b7feee794361f38b236ebe51
+SHA256: 43002c9fadd1a18ded739a0d7b78d55ecd20ee0a077e0473e18240cc8f649a00
+SHA512: de3fe14f4cc2dd74bc8959ccc828b5ab56e06e543cc36b7b57581a27a4333d121d6c82de3350a4f20723699277ae510b619bcd91dc3e1da8ab962a84d9786db3
+Description: اداه جميلة جدا تقوم بترتيب العلامات المرجعية والخيارات الموجودة في كل تطبيق مثل تويتر زر الصفحة الرئيسية او الملف الشخصي تقوم بأضافتها لك داخل ايطار تقدر تتحكم في حجمة ولونة وموقعة لتصل الى خيارات التطبيق بشكل اسرع لاحظ الصور لتصل الفكرة
+Author: iosghost
+Depiction: https://iosghost.github.io
+Name: Fiona
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2076
+Icon: https://media.havoc.app/65e987f4df1ff02035bcd6b1
 
