@@ -1,11 +1,8 @@
-Origin: jesterFile's Repo
-Label: jesterFile
+Origin: Ghost's Repo ✨
+Label: Ghost's Repo ✨
 Suite: stable
 Version: 1.0
-Codename: jester
-Architecture: iphoneos-arm
+Codename: iOS
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: jesterFile Best Repo for all Packages! Cydia + Sileo + Installer + Zebra! & Saily.
-MD5Sum:
- f8b71f8c010dcf1707de3ecfc918b5cf 5405 Packages
- e31a8148735b0f8bceebe01134a39eae 1900 Packages.bz2
+Description: JB repo for you
