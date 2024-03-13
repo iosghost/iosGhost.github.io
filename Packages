@@ -1822,6 +1822,27 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=jodelempro
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: extbh
 
+Package: me.alfhaily.rocket
+Architecture: iphoneos-arm64
+Version: 3.8.23
+Priority: optional
+Section: Tweaks
+Maintainer: iOS Ghost <9yei20@gmail.com>
+Installed-Size: 6588
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs//me.alfhaily.rocket_3.8.23_iphoneos-arm64.deb
+Size: 1437956
+MD5sum: fba77f829b33b00786408b0bc7dd42b4
+SHA1: 46826090a3d8911787759cf325a1b2158c131b8e
+SHA256: 23f3d4db3c16823019243f255e9cc5b2f89d70e7a02918ea272e8c52660ab38c
+SHA512: 7ea9db18883d6d3e217d62918a0712d1383087dbedac2b595089ad95428149693562645cc9ab601f78185fcccf2620f61cb9cee57a40673447543a27db785a35
+Description: Save posts and view stories anonymously and do much more
+Author: iOS Ghost
+Name: Rocket for Instagram
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+
 Package: me.ikghd.instakiller
 Architecture: iphoneos-arm64
 Version: 1.10
