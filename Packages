@@ -2189,18 +2189,18 @@ Author: Ploosh
 Package: repo.AMARVIP.com
 Architecture: iphoneos-arm
 Version: 3.0.0
-Section: Tweaks
+Section: Hack Games
 Maintainer: iOS Ghost
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs//repo.AMARVIP.com_3.0.0_iphoneos-arm.deb
-Size: 1720464
-MD5sum: ea94f729dbe1e73733410ab29314d38e
-SHA1: 806d8f6bcfa8e3bbbced4899b68cc0f2b887741f
-SHA256: 0ffe9bf1918372f90ead356e77c90cae94b351151be8f20d162101d527899c38
-SHA512: 0d91823c8a021cac0073f8e664d6bdc371d657335831b4cc316ee2bc3c40856d2937a5df378ef9665bc80107d404b075cf7a24f4aa675f7606259d8cd68b06d9
+Size: 1719980
+MD5sum: 3e3a1ad083d31235c59f7eb8d4eae6f2
+SHA1: 8378763b22243dfd5400ce30d47df069a4ed9807
+SHA256: e95189116099ec5a1a36bb8e6033a3f86e5d0c13625ba0cf25a3dbd10ef3b7f0
+SHA512: 4d34e3644292f7788668841ac3b0d4715c5a5ad38085d0c70df9314930540765e15c6fedcc9b44d37966411a5392cb2d0db5e84b41277bcc5cd247ab9bf15150
 Description: By t.me/SUPEDR
-Name: هاك ببجي رادار
-Author: AMAR
+Name: HACK PUBG
+Author: iOS Ghost
 
 Package: xyz.cypwn.accentcustom
 Architecture: iphoneos-arm64
