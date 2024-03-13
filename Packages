@@ -2186,6 +2186,22 @@ Icon: https://repo.ploosh.dev/assets/debstealer.png
 SileoDepiction: https://repo.ploosh.dev/meta/debstealer.json
 Author: Ploosh
 
+Package: repo.AMARVIP.com
+Architecture: iphoneos-arm
+Version: 3.0.0
+Section: Tweaks
+Maintainer: iOS Ghost
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs//repo.AMARVIP.com_3.0.0_iphoneos-arm.deb
+Size: 1720464
+MD5sum: ea94f729dbe1e73733410ab29314d38e
+SHA1: 806d8f6bcfa8e3bbbced4899b68cc0f2b887741f
+SHA256: 0ffe9bf1918372f90ead356e77c90cae94b351151be8f20d162101d527899c38
+SHA512: 0d91823c8a021cac0073f8e664d6bdc371d657335831b4cc316ee2bc3c40856d2937a5df378ef9665bc80107d404b075cf7a24f4aa675f7606259d8cd68b06d9
+Description: By t.me/SUPEDR
+Name: هاك ببجي رادار
+Author: AMAR
+
 Package: xyz.cypwn.accentcustom
 Architecture: iphoneos-arm64
 Version: 2.0.5
