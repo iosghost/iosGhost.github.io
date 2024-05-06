@@ -2546,6 +2546,24 @@ Author: pookjw
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.pookjw.standpad
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.pookjw.standpad/info.json
 
+Package: com.powen.permasignerios
+Architecture: iphoneos-arm
+Version: 0.2.5
+Section: Applications
+Maintainer: Powen <powen0966091716@gmail.com>
+Pre-Depends: firmware (>= 14.0)
+Depends: dpkg, ldid , bash , plutil | com.bingner.plutil
+Filename: ./debs//com.powen.permasignerios.0.2.5.deb
+Size: 2524340
+MD5sum: 1efb9bb5bde61d8116ff8d7ac54553a2
+SHA1: aefdde8d2e471ed95a521a058d0c8f878fe44570
+SHA256: 4744c8784f90d2d494e487bd9ab8f09f795e2372de4e3f4e9e5a8b7840ee6d38
+SHA512: 7362e8e71b55378c58f8914ac955a29e78ff15471e713c328cf63b8052f567f0a6a55897fde272e57488c0a3d3d01759eb63a366a87284c90ae4e7f0f4f397a2
+Description: permasigner on iOS
+Name: permasigneriOS
+Author: Powen <powen0966091716@gmail.com>
+depiction: https://github.com/powenn/permasigneriOS
+
 Package: com.ps.highweather
 Architecture: iphoneos-arm
 Version: 1.0.0-1+debug
