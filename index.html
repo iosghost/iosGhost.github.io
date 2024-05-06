@@ -341,6 +341,7 @@ p {
 
 
 
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -350,10 +351,14 @@ p {
 <body>
     <script>
         window.addEventListener('load', function() {
-            alert('هذا السورس محمي وآمن');
+            if (!localStorage.getItem('messageShown')) {
+                alert('هذا السورس محمي وآمن');
+                localStorage.setItem('messageShown', 'true');
+            }
         });
     </script>
 </body>
+
 
 
 
