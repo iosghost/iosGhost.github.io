@@ -3871,6 +3871,26 @@ SileoDepiction: https://paisseon.github.io/depictions/Satella.json
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
 Icon: https://paisseon.github.io/icons/Satella.png
 
+Package: ghost.catway.org.mterminal-rootless
+Architecture: iphoneos-arm64
+Version: 1.4-1
+Section: Netskao-Tweaks
+Maintainer: iosghost
+Installed-Size: 2232
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (>= 15.0), gettext-localizations, system-cmds, bash | zsh
+Conflicts: mterminal, oldabi
+Filename: ./debs//ghost.catway.org.mterminal-rootless_1.4-1_iphoneos-arm64.deb
+Size: 506168
+MD5sum: ee47d5efce63d37774d5b47c817bb794
+SHA1: acfd3a8bd57f53e0e274edf488fcf1fc1475bdc6
+SHA256: fc2693fe858dcfe068a40abf67dd753eee11819f20c00b90fa0fc03e6a1d3bac
+SHA512: a335e591074c65bcf08590f805ed61c0e5514b9af8b5fad37280d419b03cef888119c47b5190960ee8ca6b9ab58f84a332b268d9fb42f88063e2ff884b1846e7
+Homepage: https://bitbucket.org/lordscotland/mterminal
+Description: A MobileTerminal fork. Full Screen Support
+Author: iosghost
+Name: MTerminal-Rootless
+
 Package: com.pwnd2e.icleanerpro.rootless
 Architecture: iphoneos-arm64
 Version: 7.10.0
@@ -4907,24 +4927,4 @@ Name: particletrail
 Depiction: https://pixeljellyfish.xyz/repo/particletrail
 Icon: https://pixeljellyfish.xyz/repo/particletrail/icon.png
 Author: pixeljellyfish
-
-Package: ghost.catway.org.youtubereborn
-Architecture: iphoneos-arm64
-Version: 4.2.6
-Section: يوتيوب
-Maintainer: iosghost
-Installed-Size: 24892
-Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx
-Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
-Filename: ./debs//youtubereborn.deb
-Size: 9094556
-MD5sum: f411b4e026bb3d0ad0e94c7d3ef2a982
-SHA1: 7a4aa57f42189dd71944e503687f193a6cb1ce5e
-SHA256: 847565bcb18d7d8c374c1efcd56e9e31eb2ab0172dde838c1af370ee1e9d0d84
-SHA512: c730f2c1ee8a1709d871e4df9452158fdbd9327d1d2a3f307d18fab112457d046896cd1f34a7d8f24286189ec982c8e0b7928a762555d2c28f78db8ef9d88133
-Description: YouTube Customizer
-Name: YouTube Reborn
-Author: iosghost
 
