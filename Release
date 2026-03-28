@@ -1,0 +1,20 @@
+Origin: Ghost Repo ✨
+Label: Ghost Repo ✨
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: Source for you, my friend
+MD5Sum:
+ 80985ecaef570a3e6078a684a6ea3a56 2536 Packages
+ 998b997294c4a46b483d98346462143b 1082 Packages.gz
+ 9c82f78be17551f4f84ad89a3a6f3fa6 1214 Packages.bz2
+SHA1:
+ f5334edc51860a18598676d104dc660425a5766c 2536 Packages
+ a829a345e86ef9da2ea98e081ebef0bb91dc9a53 1082 Packages.gz
+ 852b3b5111d077934a4f7ca588d3c846f1486750 1214 Packages.bz2
+SHA256:
+ 1f46f4156d79b0143ce39c036b53a189f1bee61930f42ca4f652c873d40d66b5 2536 Packages
+ cc9fd0e39caf63ca14fa46a1a86456faec74508dbe32c057afbc590cca32f0ae 1082 Packages.gz
+ a8aeeccc1bf1e0353b6adaf31b44bc694a550a40aec67ff77be70c18e3cf0167 1214 Packages.bz2
