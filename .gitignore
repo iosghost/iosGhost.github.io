@@ -1,0 +1,9 @@
+*.sh
+.gh_token
+.package_checksums.txt
+.uploaded_packages.txt
+.custom_package_config.txt
+.custom_icons.txt
+backup_*
+*.tmp
+*.bak
