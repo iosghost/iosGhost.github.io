@@ -26,12 +26,8 @@
           "itemSize": "{160, 346}",
           "screenshots": [
             {
-              "url": "https://iosghost.github.io/assets/screenshot1.jpeg",
-              "accessibilityText": "Screenshot 1"
-            },
-            {
-              "url": "https://iosghost.github.io/assets/screenshot1.jpeg",
-              "accessibilityText": "Screenshot 2"
+              "url": "https://f.top4top.io/p_3739o2gqu3.png",
+              "accessibilityText": "Screenshot"
             }
           ]
         },
@@ -112,7 +108,7 @@
         {
           "class": "DepictionMarkdownView",
           "format": "markdown",
-          "markdown": "• التحديث الأول\n• تحسينات عامة في الأداء\n• دعم كامل لـ iOS 14-18\n• إصلاح بعض المشاكل",
+          "markdown": "WebRip - Professional Website Downloader\nVersion 1.0 - Initial Release\n✨ Features:\n• Complete website downloading with wget\n• Beautiful gradient interface with smooth animations\n• Support for all website resources (HTML, CSS, JS, Images, Fonts)\n• Smart file organization by domain name\n• Real-time download progress with speed indicator\n• Terminal-style output with colored logs\n• Export download reports\n• Recent URLs history with delete option\n• Open downloads directly in Filza\n• Cancel download anytime\n📱 About Page:\n• Comprehensive instructions for beginners\n• One-click wget installation via Sileo/Cydia\n• Developer info with Twitter/X integration\n• Bitcoin donation support with Binance integration\n🔧 Requirements:\n• iOS 15.0 or higher\n• wget installed (can be installed through the app)\n📦 Package Details:\n• Bundle ID: com.ghost.webrip\n• Architecture: iphoneos-arm64e\n• Category: Applications\n🛠 Developer: GhostTechXx\n🐦 Twitter/X: @ghosttechxx\n💝 Support: Bitcoin donations accepted\nSpecial thanks to the jailbreak community for their continued support!\nend\n",
           "useSpacing": true
         },
         {
