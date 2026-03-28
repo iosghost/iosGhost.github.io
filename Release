@@ -7,7 +7,17 @@ Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Source for you, my friend
 MD5Sum:
- b1bcd45418ba346baf6afb237064dd59 1728 Packages
- 339a02101d49f36156d99dab57a070af 768 Packages.gz
- e62b09e29610f176f6dbe40160a4249b 894 Packages.bz2
- 3d133e2bef7bab71e916a25d4bb61bbf 824 Packages.xz
+ a1c5e1e0c045982191e960df94e5aec0 2255 Packages
+ 92b364598dcb9da25c68fea482294fb4 1106 Packages.gz
+ 676e36be09c533748b01eede9d3f04fa 1241 Packages.bz2
+ 4b6e634954f3e309eb6340588134342c 1156 Packages.xz
+SHA1:
+ 4ac0c171b21f8e47bf91851d7302f4a33b69800b 2255 Packages
+ c43a1beea7b096dea047b7e496018fda4110cf46 1106 Packages.gz
+ 97daed787f1330073556e2df285a700a937fc3cd 1241 Packages.bz2
+ 572c21232c1775c689ad83475027953cd680c9d0 1156 Packages.xz
+SHA256:
+ f15fc237de0c285b7ec0f6c4541034542cec7b54f0e4aa6aeb6055f9aedb0408 2255 Packages
+ 445e78fdb90d7123b14216b80f310faa81983875fd3c80e0af92a18612d4992a 1106 Packages.gz
+ f02d70f7889e22eb7e782c4c1e5b71d3adc2cf9fedab4c7242addc21d3e5e399 1241 Packages.bz2
+ 973a9bf4099ef41f785c82c2a664a13806ef826b6ab6bbefeed6769f9c7d6ff0 1156 Packages.xz

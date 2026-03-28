@@ -9,6 +9,8 @@ Icon: https://raw.githubusercontent.com/fridakitten/FridaCodeManager/main/Bluepr
 Filename: debs/FridaCodeManager.deb
 Size: 3166188
 MD5sum: cea3f6253222217ba0b22769084726e8
+SHA1: c7ae0352f4bba150057ec60b83478e2fb52cd651
+SHA256: 6700eff7c6fee3c11edd0d1ad67dcfa6990b718695f4c75cf0b9c1a5bee21e70
 Description: Full fledged Xcode-like IDE for iOS
 SileoDepiction: https://iosghost.github.io/depictions/com.sparklechan.swifty.json
 
@@ -23,6 +25,8 @@ Icon: https://repo.cypwn.xyz/packages/DLEasy-Rootless/icon.png
 Filename: debs/dleasy.deb
 Size: 14829046
 MD5sum: fbf764a3193519091fd097304bc4046f
+SHA1: f6a9ffc9a222b11a793a05cb433b8eef935292af
+SHA256: 896cd2f02389416dd0228a3682a0f4a87fd037e02c9d2c4da7b063e1a34ac9be
 Description: Download/Share images & videos from social apps easily!
 SileoDepiction: https://iosghost.github.io/depictions/xyz.cypwn.dleasy.json
 
@@ -37,6 +41,8 @@ Icon: https://iosghost.github.io/CydiaIcon.png
 Filename: debs/kayoko.deb
 Size: 180608
 MD5sum: fd64963b41637777b6926a5c48898513
+SHA1: 82cea3e77d54472e07fdf4f81be6f9db7ed1e16c
+SHA256: da36d208a2ac61210814b60f73b4a4a08e616d4d78ca421ae470e81876c6cf93
 Description: Clipboard manager for iOS.
 SileoDepiction: https://iosghost.github.io/depictions/codes.aurora.kayoko.json
 
@@ -47,10 +53,12 @@ Architecture: iphoneos-arm64e
 Maintainer: Ghost
 Author: Ghost
 Section: Applications
-Icon: https
+Icon:  Use the arm64 package\n  📥 For Dopamine-Rootless
 Filename: debs/webrip.deb
 Size: 10002066
 MD5sum: 8902d6990f463e5b00dfa853f0f797dc
+SHA1: f63a57f1ad5f3351d79a64142a387eb7934baeec
+SHA256: b0d7c2c5307b5856f117fcc5428827e7316d04039d52b2821c75fbbdac0d9201
 Description: Professional website downloader - Rip websites completely
 SileoDepiction: https://iosghost.github.io/depictions/com.ghost.webrip.json
 
