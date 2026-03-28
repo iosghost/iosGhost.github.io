@@ -27,11 +27,11 @@
           "screenshots": [
             {
               "url": "https://iosghost.github.io/assets/screenshot1.jpeg",
-              "accessibilityText": "لقطة شاشة 1"
+              "accessibilityText": "Screenshot 1"
             },
             {
               "url": "https://iosghost.github.io/assets/screenshot1.jpeg",
-              "accessibilityText": "لقطة شاشة 2"
+              "accessibilityText": "Screenshot 2"
             }
           ]
         },
@@ -112,7 +112,7 @@
         {
           "class": "DepictionMarkdownView",
           "format": "markdown",
-          "markdown": "  • التحديث الأول\n• تحسينات عامة في الأداء\n• دعم كامل لـ iOS 14-18\n• إصلاح بعض المشاكل",
+          "markdown": "• التحديث الأول\n• تحسينات عامة في الأداء\n• دعم كامل لـ iOS 14-18\n• إصلاح بعض المشاكل",
           "useSpacing": true
         },
         {
