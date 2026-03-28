@@ -7,3 +7,5 @@
 backup_*
 *.tmp
 *.bak
+*.json
+!sileo-featured.json
