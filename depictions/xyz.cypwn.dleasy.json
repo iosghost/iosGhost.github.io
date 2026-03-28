@@ -7,118 +7,32 @@
       "class": "DepictionStackView",
       "tabname": "التفاصيل",
       "views": [
-        {
-          "class": "DepictionHeaderView",
-          "title": "DLEasy"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "format": "markdown",
-          "markdown": "Download/Share images & videos from social apps easily!",
-          "useSpacing": true
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 12,
-          "itemSize": "{160, 346}",
-          "screenshots": [
-            {
-              "url": "https://iosghost.github.io/assets/screenshot1.jpeg",
-              "accessibilityText": "Screenshot 1"
-            },
-            {
-              "url": "https://iosghost.github.io/assets/screenshot1.jpeg",
-              "accessibilityText": "Screenshot 2"
-            }
-          ]
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "معلومات الحزمة"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "الإصدار",
-          "text": "2.14.6"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "المعمارية",
-          "text": "iphoneos-arm64e"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "القسم",
-          "text": "Tweaks"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "الحجم",
-          "text": "15M"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "المطور",
-          "text": "AhmedBafkir"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "المشرف",
-          "text": "CyPwn"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "روابط التواصل"
-        },
-        {
-          "class": "DepictionButtonView",
-          "text": "تويتر (X)",
-          "action": "https://x.com/ghosttechxx?s=21&t=gDTtt3noIINkmZoLewp_pA",
-          "tintColor": "#CBA7FA",
-          "style": "rounded",
-          "alignment": 1
-        },
-        {
-          "class": "DepictionButtonView",
-          "text": "الموقع الرسمي",
-          "action": "https://iosghost.github.io/",
-          "tintColor": "#CBA7FA",
-          "style": "rounded",
-          "alignment": 1
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 16
-        }
+        {"class": "DepictionHeaderView", "title": "DLEasy"},
+        {"class": "DepictionMarkdownView", "format": "markdown", "markdown": "Download/Share images & videos from social apps easily!", "useSpacing": true},
+        {"class": "DepictionSeparatorView"},
+        {"class": "DepictionScreenshotsView", "itemCornerRadius": 12, "itemSize": "{160, 346}", "screenshots": [
+          {"url": "https://iosghost.github.io/assets/screenshot1.jpeg", "accessibilityText": "Screenshot 1"},
+          {"url": "https://iosghost.github.io/assets/screenshot1.jpeg", "accessibilityText": "Screenshot 2"}
+        ]},
+        {"class": "DepictionSeparatorView"},
+        {"class": "DepictionHeaderView", "title": "معلومات الحزمة"},
+        {"class": "DepictionTableTextView", "title": "الإصدار", "text": "2.14.6"},
+        {"class": "DepictionTableTextView", "title": "المعمارية", "text": "iphoneos-arm64e"},
+        {"class": "DepictionTableTextView", "title": "القسم", "text": "Tweaks"},
+        {"class": "DepictionTableTextView", "title": "الحجم", "text": "15M"},
+        {"class": "DepictionTableTextView", "title": "المطور", "text": "AhmedBafkir"},
+        {"class": "DepictionSeparatorView"},
+        {"class": "DepictionHeaderView", "title": "روابط التواصل"},
+        {"class": "DepictionButtonView", "text": "تويتر (X)", "action": "https://x.com/ghosttechxx?s=21&t=gDTtt3noIINkmZoLewp_pA", "tintColor": "#CBA7FA", "style": "rounded"},
+        {"class": "DepictionButtonView", "text": "الموقع الرسمي", "action": "https://iosghost.github.io/", "tintColor": "#CBA7FA", "style": "rounded"}
       ]
     },
     {
       "class": "DepictionStackView",
       "tabname": "سجل التحديثات",
       "views": [
-        {
-          "class": "DepictionHeaderView",
-          "title": "سجل التغييرات"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "format": "markdown",
-          "markdown": "• التحديث الأول\n• تحسينات عامة في الأداء\n• دعم كامل لـ iOS 14-18\n• إصلاح بعض المشاكل",
-          "useSpacing": true
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 20
-        }
+        {"class": "DepictionHeaderView", "title": "سجل التغييرات"},
+        {"class": "DepictionMarkdownView", "format": "markdown", "markdown": "• التحديث الأول\n• تحسينات عامة في الأداء\n• دعم كامل لـ iOS 14-18", "useSpacing": true}
       ]
     }
   ]
