@@ -11,9 +11,8 @@
         {"class": "DepictionMarkdownView", "format": "markdown", "markdown": "Download/Share images & videos from social apps easily!", "useSpacing": true},
         {"class": "DepictionSeparatorView"},
         {"class": "DepictionScreenshotsView", "itemCornerRadius": 12, "itemSize": "{160, 346}", "screenshots": [
-          {"url": "https://iosghost.github.io/assets/screenshot1.jpeg", "accessibilityText": "Screenshot 1"},
-          {"url": "https://iosghost.github.io/assets/screenshot1.jpeg", "accessibilityText": "Screenshot 2"}
-        ]},
+            {"url": "https://iosghost.github.io/assets/screenshot1.jpeg", "accessibilityText": "Screenshot 1"},
+            {"url": "https://iosghost.github.io/assets/screenshot1.jpeg", "accessibilityText": "Screenshot 2"}]},
         {"class": "DepictionSeparatorView"},
         {"class": "DepictionHeaderView", "title": "معلومات الحزمة"},
         {"class": "DepictionTableTextView", "title": "الإصدار", "text": "2.14.6"},

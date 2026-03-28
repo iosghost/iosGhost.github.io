@@ -53,7 +53,7 @@ Architecture: iphoneos-arm64e
 Maintainer: Ghost
 Author: Ghost
 Section: Applications
-Icon: https
+Icon: https://iosghost.github.io/CydiaIcon.png
 Filename: debs/webrip.deb
 Size: 10002066
 MD5sum: 8902d6990f463e5b00dfa853f0f797dc

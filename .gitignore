@@ -2,7 +2,7 @@
 .gh_token
 .package_checksums.txt
 .uploaded_packages.txt
-.custom_package_config.txt
+.custom_config.txt
 backup_*
 *.tmp
 *.bak
