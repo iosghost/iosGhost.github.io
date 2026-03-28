@@ -83,7 +83,7 @@
       "tabname": "سجل التحديثات",
       "views": [
         {"class": "DepictionHeaderView", "title": "سجل التغييرات"},
-        {"class": "DepictionMarkdownView", "format": "markdown", "markdown": "  WebRip (1.0.0-1) stable", "useSpacing": true}
+        {"class": "DepictionMarkdownView", "format": "markdown", "markdown": "WebRip (1.0.0-1) stable", "useSpacing": true}
       ]
     }
   ]
