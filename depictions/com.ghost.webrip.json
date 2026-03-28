@@ -11,7 +11,7 @@
         {"class": "DepictionMarkdownView", "format": "markdown", "markdown": "Professional website downloader - Rip websites completely", "useSpacing": true},
         {"class": "DepictionSeparatorView"},
         {"class": "DepictionScreenshotsView", "itemCornerRadius": 12, "itemSize": "{160, 346}", "screenshots": [
-            {"url": "Use", "accessibilityText": "Screenshot 1"},
+            {"url": "//a.top4top.io/p_3739sdm794.png:Use", "accessibilityText": "Screenshot 1"},
             {"url": "the", "accessibilityText": "Screenshot 2"},
             {"url": "arm64e", "accessibilityText": "Screenshot 3"},
             {"url": "package\n", "accessibilityText": "Screenshot 4"},
@@ -83,7 +83,7 @@
       "tabname": "سجل التحديثات",
       "views": [
         {"class": "DepictionHeaderView", "title": "سجل التغييرات"},
-        {"class": "DepictionMarkdownView", "format": "markdown", "markdown": "  WebRip (1.0.0-1) stable; urgency=medium\n  * Initial release - Full official version\n  [New Features]\n  ✓ Full support for Dopamine-roothide and Dopamine-Rootless\n  ✓ Dual architecture support (arm64 & arm64e)\n  ✓ Modern UI with beautiful gradient effects\n  ✓ Professional About screen with developer info and social links\n  ✓ Complete wget integration for website downloading\n  ✓ Advanced progress tracking with speed and time estimation\n  ✓ Interactive terminal log with color-coded messages\n  ✓ Recent URLs history with delete and add functionality\n  ✓ Export download reports as text files\n  ✓ Open folders directly in Filza file manager\n  ✓ Safari integration for opening links\n  ✓ Cryptocurrency donation options (Bitcoin)\n  ✓ Animated progress bar with percentage display\n  ✓ Cancel download functionality at any time\n  ✓ Copy file paths to clipboard\n  [Technical Improvements]\n  ⚡ Significantly improved processing speed for large downloads\n  ⚡ Optimized memory management to prevent crashes\n  ⚡ Custom Menlo fonts for terminal display\n  ⚡ Smooth transitions between screens\n  ⚡ Full iPad support for all screen sizes\n  ⚡ Improved touch response across all UI elements\n  ⚡ Dark mode and dynamic appearance support\n  [Bug Fixes]\n  🔧 Fixed wget path detection in different jailbreak types\n  🔧 Fixed permission issues in download folder\n  🔧 Fixed app icon display on home screen\n  🔧 Fixed downloading issues with encrypted URLs\n  🔧 Fixed app freeze when canceling downloads\n  🔧 Overall stability improvements\n  [Requirements]\n  📱 iOS 15.0 or later\n  🔓 Dopamine-roothide or Dopamine-Rootless\n  📦 wget package (apt install wget)\n  💾 At least 50MB free storage\n  [Installation Instructions]\n  📥 For Dopamine-roothide", "useSpacing": true}
+        {"class": "DepictionMarkdownView", "format": "markdown", "markdown": "  WebRip (1.0.0-1) stable", "useSpacing": true}
       ]
     }
   ]
