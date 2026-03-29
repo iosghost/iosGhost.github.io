@@ -3,15 +3,16 @@ Label: Ghost Repo ✨
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: Source for you, my friend
+Description: VIP Repository
 MD5Sum:
- 56de82f6db4cae0fc60a3e13e30d7770 467 Packages
- 1c7fbd688e8b1d4ba7a0fcbf1e6fee7f 316 Packages.gz
- 0c6e92d1949a97ec61bd0090ba1b46b4 359 Packages.bz2
- 767376a42d0287fd09b3385215342ec8 388 Packages.xz
-SHA1:
- 8049e4b757745b13fec4966855de5c047e047b4a 467 Packages
+ bea221d8268e1437edddea65b1b63ba9 471 Packages
+ 900d6805061019a2ee680596ad925cf2 299 Packages.gz
+ 63ba1a7fbea5a689972a997e77939f27 344 Packages.bz2
+ e7d8962a62eafb5c82c021c5ccb27b8c 364 Packages.xz
 SHA256:
- 51b8061d409fe5e717a5c718c44295850b6ecdc19afaa8748fa243bb83261553 467 Packages
+ dbdd96e1921be5a1e4524be33e1cdbc39356e71b925c2f4643afe2ffa2a468d8 471 Packages
+ aa55d285fc3c132010aa7f0b972106fa2d7b7a79cb3454f2bcc80f036f534b98 299 Packages.gz
+ 61f23b72e869352251235af8ddc18d35cb78c2779f125e190cb89b7e3fc21223 344 Packages.bz2
+ 0c885cae27dc1c04677a3cc51a8e72a27987c10f075a7a6fe5382450e2557657 364 Packages.xz
