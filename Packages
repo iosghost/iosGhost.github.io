@@ -2,7 +2,7 @@ Package: com.ghost.webrip
 Name: webrip
 Version: 1.1
 Architecture: iphoneos-arm64
-Description: 
+Description: WebRip downloads complete websites including HTML, CSS, JavaScript, images, fonts, and media files. No external dependencies. Works immediately after installation
 Icon: https://c.top4top.io/p_3740s4y253.png
 Size: 10174918
 MD5sum: 2dc940bfe599bfc0a3353a2f04419d4f
