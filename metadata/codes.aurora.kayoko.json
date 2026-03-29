@@ -1,1 +1,13 @@
-{"name":"ققق","description":"ققق"}
+{
+  "id": "codes.aurora.kayoko",
+  "name": "ققق",
+  "version": "2.9",
+  "arch": "iphoneos-arm",
+  "maintainer": "GhostTechXx",
+  "author": "GhostTechXx",
+  "description": "تجربة الداش بورد",
+  "icon": "https://iosghost.github.io/CydiaIcon.png",
+  "size": "0",
+  "md5": "N/A",
+  "sha256": "N/A"
+}
