@@ -5,6 +5,6 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: Professional Repo
+Description: VIP Source for Ghost Friends
 MD5Sum:
- ab43fac96a374b4e858b8ab5ff062ae8 560 Packages
+ 3cc72f7a485d6e64ef7f3e6b87c0672b 631 Packages
