@@ -1,17 +1,13 @@
 {
-  "views": [
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 8,
+  "banners": [
     {
-      "class": "FeaturedBannersView",
-      "itemSize": "{263, 148}",
-      "itemCornerRadius": 8,
-      "banners": [
-        {
-          "package": "com.ghost.webrip",
-          "title": "WEBRIP",
-          "url": "https://iosghost.github.io/assets/coverghost.jpeg",
-          "hideShadow": "false"
-        }
-      ]
+      "package": "com.ghost.webrip",
+      "title": "WEBRIP",
+      "url": "https://iosghost.github.io/assets/coverghost.jpeg",
+      "hideShadow": "true"
     }
   ]
 }
