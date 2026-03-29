@@ -1,15 +1,3 @@
-Package: codes.aurora.kayoko
-Name: kayoko
-Version: 2.9
-Architecture: iphoneos-arm64
-Description: تجربه
-Icon: https://iosghost.github.io/CydiaIcon.png
-Size: 0
-MD5sum: N/A
-SHA256: N/A
-Filename: debs/codes.aurora.kayoko.deb
-SileoDepiction: https://iosghost.github.io/depictions/codes.aurora.kayoko.json
-
 Package: com.ghost.webrip
 Name: webrip
 Version: 1.1
