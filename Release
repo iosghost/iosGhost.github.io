@@ -3,8 +3,15 @@ Label: Ghost Repo ✨
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: VIP Source for Ghost Friends
+Description: Source for you, my friend
 MD5Sum:
- 3cc72f7a485d6e64ef7f3e6b87c0672b 631 Packages
+ 837364024ef12c61ba43af91159f5c30 470 Packages
+ afd7c35ed7de6b8eb0a00bfbcd0e557e 334 Packages.gz
+ 841583c9fae2dd89049b0d1162631fad 370 Packages.bz2
+ ec6a7c31e1f3349a75d2ef7430d213bf 408 Packages.xz
+SHA1:
+ 6f0a8f694c19a4accb88362ba75a9bcc6dbc4a86 470 Packages
+SHA256:
+ fb4be55ed4a7680f261d587fa8ae828a98e36c7bd5597f5df41f80ec1304b441 470 Packages
