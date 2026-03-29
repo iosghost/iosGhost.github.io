@@ -1,18 +1,12 @@
 Package: com.ghost.webrip
-Name: webrip
+Name: com.ghost.webrip
 Version: 1.1
 Architecture: iphoneos-arm64
 Description: WebRip downloads complete websites including HTML, CSS, JavaScript, images, fonts, and media files. No external dependencies. Works immediately after installation.
 
 
-
-- دمج مكتبة wget داخل التطبيق، لا يحتاج تثبيت أي شيء إضافي
-- يعمل فور التثبيت بدون أي إعدادات
-- تحسين سرعة التحميل
-- إصلاح مشكلة البحث عن المسارات القديمة
-وغيرها
 Icon: https://c.top4top.io/p_3740s4y253.png
-Size: 0
+Size: 10174918
 MD5sum: 2dc940bfe599bfc0a3353a2f04419d4f
 SHA256: 392007dd51e697f8d8d89dac178daa4de04e6bccd4aac5698c485883cfe69e7f
 Filename: debs/com.ghost.webrip.deb
