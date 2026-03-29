@@ -3,16 +3,25 @@ Label: Ghost ✨
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Faster VIP Repo
+Description: Universal Repo
+Support-Sileo: yes
 MD5Sum:
- 0af6a0f21218c62a5e8a86a20ac42054 1010 Packages
- 04c3d0eae93e451eda16c0365a49a46d 571 Packages.gz
- eb36f7874d17dbc538b415b97e4fd634 679 Packages.bz2
- e896c3a55bf4dbe8668c989fc262f880 620 Packages.xz
+ 23b09be76894949f455365ba0c97a0a6 963 Packages
+ 6180d75b4989420c17e8152a3d0a3299 535 Packages.gz
+ a8c7c2f7846bdd863a9bfa4d4de0a745 609 Packages.bz2
+ 3a5ef1cdd817782304dda7e5de5fd783 592 Packages.xz
+ 46f875ffec208f94c3e51e843908ab27 535 Packages.zst
+SHA1:
+ 4f82572490ed4d279fd2392570bce18cc9e2d7cc 963 Packages
+ 436125d29a7ffe45c34da0128b61e15e2b1f73c9 535 Packages.gz
+ 16825a5dc5dbbd5e3a1f2ddcd4a17600b3b4fb4f 609 Packages.bz2
+ efeaa8def1eb6cdcb294e22f506867a9414c20bb 592 Packages.xz
+ e4c5905edc5ff2f8449f84036b6eddd6f380eece 535 Packages.zst
 SHA256:
- 22d6ee0f81eaca2ebca8745426e6b500ca3a9905a860af5770cd077026991af7 1010 Packages
- 4647591dfa294f2843b88af97379c7dc47044722dbf478769abb137ed93a92fb 571 Packages.gz
- bc2ba1cb6770023b33c00f5bcb473dca79c2acbcc71767e7bef85d36756017ef 679 Packages.bz2
- a0d2b13f8732df190c15045eddd463354f3439b940d6c4dd9edbe8739d1bd344 620 Packages.xz
+ 5aa53370965def31cfc14ad4eb128354657fcfbf78fa9cfd07218c87a1ca0017 963 Packages
+ 11a44a4a1b04d6bbb6a93cae3eea9765119834f56c9470d5abad07a73329940c 535 Packages.gz
+ 46f44332beab4d753fc89454e3d19521e5ab93820fa41b89b51c308fb9878c37 609 Packages.bz2
+ 719388f8af3c1ef51e62b1b932b31da1c6258c339a29676859534ddf011a056a 592 Packages.xz
+ d62e109726e381fd2a60780e64026f99183e344f0ef18295b259a7199a3901f1 535 Packages.zst
