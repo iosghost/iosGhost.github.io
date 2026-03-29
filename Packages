@@ -1,12 +1,12 @@
 Package: com.ghost.webrip
-Name: webrip
+Name: 29294324994
 Version: 1.1
 Architecture: iphoneos-arm64
 Description: 
 Icon: https://c.top4top.io/p_3740s4y253.png
 Size: 10174918
 MD5sum: 2dc940bfe599bfc0a3353a2f04419d4f
-SHA1: 21f21c2e4b797fdf4d51214f971fd298da8554f8
+SHA1: 2dc940bfe599bfc0a3353a2f04419d4f
 SHA256: 392007dd51e697f8d8d89dac178daa4de04e6bccd4aac5698c485883cfe69e7f
 Filename: debs/com.ghost.webrip.deb
 SileoDepiction: https://iosghost.github.io/depictions/com.ghost.webrip.json
