@@ -1,0 +1,17 @@
+Origin: Ghost
+Label: Ghost
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: Ghost Repository
+MD5Sum:
+ 0f66be285d6d0a4b557c6ffad88e85c6 461 Packages
+ c860b37b22a2e82cf0d34296817206ef 356 Packages.bz2
+SHA1:
+ 83b9801fc87de3e8cbc46e3302ea0b606d556ded 461 Packages
+ 61ea52355430cf779b841d083dc11f1b99880e92 356 Packages.bz2
+SHA256:
+ 9719c2a9638b4e34e02b8252ad739d364b819b7a26f408eef31d334c86c20d3d 461 Packages
+ be1de46b674c48852e79a95f82a277bfb7ef5912e70ca865c84890dd64dbd571 356 Packages.bz2
