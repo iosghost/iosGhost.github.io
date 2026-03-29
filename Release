@@ -5,20 +5,23 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Ghost Ultimate Repo
+Description: Universal Atomic Repo
 Support-Sileo: yes
 MD5Sum:
  a796df418a01a636ff69bb81a4657c88 957 Packages
- 6d72b992c5383d79e61bb1a6ee62e807 533 Packages.gz
+ 271fa270bdd4f4ca2b8e0c7530d639bd 533 Packages.gz
  b4800987e49488747aea18e95835044c 620 Packages.bz2
  dc71535aa5a84205bb31d89e6b8a771b 588 Packages.xz
+ 252d9899a939495f2a14f44999c8b210 537 Packages.zst
 SHA1:
  11ce168ff980432034bfdc94b71a36a2595d0ade 957 Packages
- 74c3a229016e37210e69e332e7b0dffb9b3ded51 533 Packages.gz
+ f57db0ec28ed9ee03a46accc739ad4671e80dc90 533 Packages.gz
  64504caf07dfda67d376430c065b21c0d8b3cb25 620 Packages.bz2
  e25ba5b86cec26db5639e1903cfbe6c69d7160d8 588 Packages.xz
+ 3af0bd9cd381e7e9e3cea88900aebdd448517654 537 Packages.zst
 SHA256:
  99057577cc29446bfe59836114959d85964a052ea6761aded8343a69fb0975e7 957 Packages
- 81a2b946c344244992f6d4504c050fffceac6c2668e1990b6a09b46729ab54b4 533 Packages.gz
+ e51f247ae81b8d8c34ca644a0b33ebfb91babe5de94d384236b710dfa336d682 533 Packages.gz
  bc1d466ee5be15e3e6945aa8a69c2bcb41169396eece389d8e751aee411efe51 620 Packages.bz2
  45adc945a2af85a917c4e981a5b31a6ae5980b70f18efeac5ee9dcafd9a5e6fb 588 Packages.xz
+ d14da4f2227e7e877b60d24df9ee2a1c0ec1ebf3bc8e21df72aa91cb7b79a822 537 Packages.zst
