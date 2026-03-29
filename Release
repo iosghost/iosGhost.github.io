@@ -1,18 +1,18 @@
-Origin: Ghost Repo ✨
-Label: Ghost Repo ✨
+Origin: Ghost ✨
+Label: Ghost ✨
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: Vercel VIP Repo
+Description: Faster VIP Repo
 MD5Sum:
- badfaf0a9d38995d78638e0b019256f7 1010 Packages
- c32f1101c3b14a69ab7150773fb46306 572 Packages.gz
- 29481b037f916c1f5fb4943c33b2a58a 681 Packages.bz2
- a9e2deeaa97c91503f69d58ea37c3d45 624 Packages.xz
+ 0af6a0f21218c62a5e8a86a20ac42054 1010 Packages
+ 04c3d0eae93e451eda16c0365a49a46d 571 Packages.gz
+ eb36f7874d17dbc538b415b97e4fd634 679 Packages.bz2
+ e896c3a55bf4dbe8668c989fc262f880 620 Packages.xz
 SHA256:
- c8a55edb243a22f8b6fcbc263afaab8f03a7ec1d9b08c45f4c4427c40755aa6b 1010 Packages
- bf4bee0876017006041657891e438f280fbf404b92b62d4e0cde75a40e8591f3 572 Packages.gz
- 276af7311ddfa357cca0894bbce5d9c31bb927c978526eb681101e3b536f29c4 681 Packages.bz2
- f644b7d5c22fd841721cd3c0661ebb4fe7198c2b6fc17e8e27f1b784c774d744 624 Packages.xz
+ 22d6ee0f81eaca2ebca8745426e6b500ca3a9905a860af5770cd077026991af7 1010 Packages
+ 4647591dfa294f2843b88af97379c7dc47044722dbf478769abb137ed93a92fb 571 Packages.gz
+ bc2ba1cb6770023b33c00f5bcb473dca79c2acbcc71767e7bef85d36756017ef 679 Packages.bz2
+ a0d2b13f8732df190c15045eddd463354f3439b940d6c4dd9edbe8739d1bd344 620 Packages.xz
