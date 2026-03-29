@@ -5,11 +5,14 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Universal Repo (BZ2 Strict)
+Description: Universal Repo (Strict BZ2)
 Support-Sileo: yes
 MD5Sum:
+ a0326f4acf8eebd82eb3ebf5a53cc946 998 Packages
  055c633092ad3859f906c58c97164828 643 Packages.bz2
 SHA1:
+ af3c86691ba230471ef301b7f78daee455b13a6c 998 Packages
  9125a5c90aaff126bbdea6300adf33b3b07d9363 643 Packages.bz2
 SHA256:
+ 037ff1aa05a4d28d148028cea18f65930a3396b33944ae74937e2e49e7339c01 998 Packages
  6403796323dbfa597207f168b4d7e4332551ef90b723ae0ef0931fd00394a6f5 643 Packages.bz2
