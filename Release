@@ -5,14 +5,14 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: Audited VIP Repo
+Description: Vercel VIP Repo
 MD5Sum:
  7a6214f2bbfd28235f75df6f5e2b8e03 577 Packages
- 0e83b10b4cd32f0345a3e20e1bf2c251 425 Packages.gz
+ df35c1f7b568d79bacca46cf0b9c6414 425 Packages.gz
  90310d74d29de2177485e70251d9d98d 479 Packages.bz2
  134f15212e205fa6d5a4905806433b19 488 Packages.xz
 SHA256:
  9e6981d0637ed19a94b514352e2e36ce626fceeb699a1a0e13d473b2079d7c5c 577 Packages
- 8295f4d89774c18621554f7dd008cbc8176d098a3dce9e6d5ded9e1858c23849 425 Packages.gz
+ feb278357e11fc63c73bdffe0aef5f29459f1e742287b6d7eb12acdec0eb0af6 425 Packages.gz
  22a8c4a0f60f84ca20df5e83a32bd27aa11780a43eb8cf1f06895cde9264b4d1 479 Packages.bz2
  bf7a5982a3b5550b8daa0782d721fba971e82c21591b0fceb0fe2c93811186e9 488 Packages.xz
