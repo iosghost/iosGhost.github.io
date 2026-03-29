@@ -23,7 +23,7 @@ Description: Download/Share images & videos from social apps easily!
 Icon: https://repo.cypwn.xyz/packages/DLEasy-Rootless/icon.png
 
 Package: codes.aurora.kayoko
-Name: kayoko.deb
+Name: ققق
 Version: 2.9
 Architecture: iphoneos-arm64e
 Filename: debs/kayoko.deb
@@ -31,7 +31,7 @@ Size: 180608
 MD5sum: fd64963b41637777b6926a5c48898513
 SHA1: 82cea3e77d54472e07fdf4f81be6f9db7ed1e16c
 SHA256: da36d208a2ac61210814b60f73b4a4a08e616d4d78ca421ae470e81876c6cf93
-Description: Clipboard manager for iOS.
+Description: ققق
 Icon: https://iosghost.github.io/CydiaIcon.png
 
 Package: com.sparklechan.swifty
