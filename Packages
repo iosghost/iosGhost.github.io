@@ -1,3 +1,17 @@
+Package: codes.aurora.kayoko
+Name: codes.aurora.kayoko
+Version: 1.1
+Architecture: iphoneos-arm64
+Description: 
+مرحبا بالجميع
+Icon: https://iosghost.github.io/CydiaIcon.png
+Size: 180608
+MD5sum: fd64963b41637777b6926a5c48898513
+SHA256: da36d208a2ac61210814b60f73b4a4a08e616d4d78ca421ae470e81876c6cf93
+Filename: debs/codes.aurora.kayoko.deb
+SileoDepiction: https://iosghost.github.io/depictions/codes.aurora.kayoko.json
+Author: Ghost Tech
+
 Package: com.ghost.webrip
 Name: webrip
 Version: 1.1
