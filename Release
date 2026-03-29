@@ -5,14 +5,14 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: VIP Repository
+Description: Audited VIP Repo
 MD5Sum:
- ac350f536372e4a6b3b8bd1d7fd195b6 633 Packages
- e13853911b947f865c40cd97b773efe9 408 Packages.gz
- 560ea06002f508c43d101593d8e5e868 467 Packages.bz2
- 3ff2799fdc8aa4d05581a3f9fb69c16f 484 Packages.xz
+ 227d5031a7f87e1a8e9abfe80725bd97 562 Packages
+ 5684b71feffe9a4a5104a6fb83b6ac12 403 Packages.gz
+ 88b770b09682d48b66adcc5339f28e07 453 Packages.bz2
+ 4fe45dc6c60e8e696caf42524ddeaec5 480 Packages.xz
 SHA256:
- a2d334ccf5a76b1deb3b1dd6c54cccaf74e85ae5452386150b4a4c5e30f34718 633 Packages
- 77a93b4e498f150889e717104299c702334a07f5f637354c66c90ca5340f70e8 408 Packages.gz
- 6869eb49f16f293b67786590b6328cef9db04678ecd1855faf513baed841dedf 467 Packages.bz2
- cec3e4ba9c09c0e4c3e4290aed94dc684ceeef1729227c4e10280903d5d749da 484 Packages.xz
+ ec5dc6fa18bc9e570624afba833f45f2d2547e209dc45aca3c211ecd680aa2a7 562 Packages
+ 78a4dc862acc9f0c0c3c893e75aa92066a94b905fb22e5be29007c64d19326ee 403 Packages.gz
+ cb3ebe40be1c4a38c8e969bd054cc2fa3dbdacf117473415ea3d0c674ebd0f63 453 Packages.bz2
+ fe13aa61f68ea4743d6c26d8a2abc803919d5be2f39504f8119d38ea4ab97bcc 480 Packages.xz
