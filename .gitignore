@@ -3,6 +3,9 @@
 .package_checksums.txt
 .uploaded_packages.txt
 .custom_config.txt
+.performance_log.txt
+.repo_cache/
 backup_*
 *.tmp
 *.bak
+.DS_Store
