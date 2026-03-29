@@ -1,0 +1,30 @@
+[
+  {
+    "id": "com.ghost.webrip",
+    "name": "WebRip",
+    "version": "1.0.0-3+debug",
+    "description": "Professional website downloader - Rip websites completely",
+    "icon": "https://iosghost.github.io/CydiaIcon.png"
+  },
+  {
+    "id": "xyz.cypwn.dleasy",
+    "name": "DLEasy",
+    "version": "2.14.6",
+    "description": "Download/Share images & videos from social apps easily!",
+    "icon": "https://repo.cypwn.xyz/packages/DLEasy-Rootless/icon.png"
+  },
+  {
+    "id": "codes.aurora.kayoko",
+    "name": "kayoko.deb",
+    "version": "2.9",
+    "description": "Clipboard manager for iOS.",
+    "icon": "https://iosghost.github.io/CydiaIcon.png"
+  },
+  {
+    "id": "com.sparklechan.swifty",
+    "name": "FridaCodeManager",
+    "version": "1.6",
+    "description": "Full fledged Xcode-like IDE for iOS",
+    "icon": "https://raw.githubusercontent.com/fridakitten/FridaCodeManager/main/Blueprint/FridaCodeManager.app/AppIcon.png"
+  }
+]
