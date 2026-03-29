@@ -8,19 +8,22 @@ Size: 180608
 MD5sum: fd64963b41637777b6926a5c48898513
 SHA256: da36d208a2ac61210814b60f73b4a4a08e616d4d78ca421ae470e81876c6cf93
 Filename: debs/codes.aurora.kayoko.deb
+Section: Utilities
 SileoDepiction: https://iosghost.github.io/depictions/codes.aurora.kayoko.json
 Author: Ghost Tech
 
 Package: com.ghost.webrip
-Name: webrip
-Version: 1.1
-Architecture: iphoneos-arm64
-Description: WebRip downloads complete websites including HTML, CSS, JavaScript, images, fonts, and media files. No external dependencies. Works immediately after installation  WebRip ♥️
-Icon: https://c.top4top.io/p_3740s4y253.png
+Name: WEBRIP
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Description: test
+Icon: https://raw.githubusercontent.com/iosghost/iosghost.github.io/main/CydiaIcon.png
 Size: 10174918
 MD5sum: 2dc940bfe599bfc0a3353a2f04419d4f
+SHA1: 21f21c2e4b797fdf4d51214f971fd298da8554f8
 SHA256: 392007dd51e697f8d8d89dac178daa4de04e6bccd4aac5698c485883cfe69e7f
 Filename: debs/com.ghost.webrip.deb
+Section: test
 SileoDepiction: https://iosghost.github.io/depictions/com.ghost.webrip.json
 Author: Ghost Tech
 
