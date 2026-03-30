@@ -1,11 +1,11 @@
-Origin: Ghost Repo
-Label: Ghost Repo
+Origin: 
+Label: 
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Ghost Repository
+Description: 
 MD5Sum:
  ef843dc9b4661328433b549026d40962 522 Packages
  fe807a39f0ae14f9793613f691c36a5c 425 Packages.bz2
