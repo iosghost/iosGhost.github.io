@@ -1,10 +1,7 @@
 {
   "compression": [
     "bz2",
-    "zst",
-    "gz",
-    "xz",
-    "lzma"
+    "zst"
   ],
   "release": {
     "origin": "ghosttechxx",
