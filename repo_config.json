@@ -15,6 +15,18 @@
     "twitter": "https://x.com/ghosttechxx",
     "telegram": "https://t.me/iosghost",
     "website": "",
-    "discord": ""
+    "discord": "",
+    "custom_link_title": "",
+    "custom_link_url": ""
+  },
+  "tech_info": {
+    "default_author": "Ghost Tech",
+    "default_version": "1.0",
+    "default_section": "Tweaks",
+    "default_arch": "iphoneos-arm64",
+    "label_author": "المطور",
+    "label_version": "الإصدار",
+    "label_section": "القسم",
+    "label_arch": "المعمارية"
   }
 }
