@@ -1,4 +1,11 @@
 {
+  "compression": [
+    "bz2",
+    "zst",
+    "gz",
+    "xz",
+    "lzma"
+  ],
   "release": {
     "origin": "ghosttechxx",
     "label": "ghosttechxx",
