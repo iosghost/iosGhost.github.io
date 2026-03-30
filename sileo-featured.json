@@ -10,10 +10,10 @@
       "url": "https://iosghost.github.io/assets/coverghost.jpeg"
     },
     {
+      "hideShadow": "true",
       "package": "",
       "title": "WEBRIP",
-      "url": "https://iosghost.github.io/assets/coverghost.jpeg",
-      "hideShadow": "true"
+      "url": "https://iosghost.github.io/assets/coverghost.jpeg"
     }
   ]
 }
