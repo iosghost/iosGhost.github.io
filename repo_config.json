@@ -1,0 +1,16 @@
+{
+  "release": {
+    "origin": "Ghost Repo",
+    "label": "Ghost Repo",
+    "description": "Ghost Repository"
+  },
+  "depiction": {
+    "tintColor": "#cba7fa"
+  },
+  "social": {
+    "twitter": "https://x.com/GhostTechXx",
+    "telegram": "https://t.me/iosghost",
+    "website": "https://iosghost.github.io/",
+    "discord": ""
+  }
+}
