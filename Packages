@@ -1,0 +1,14 @@
+Package: com.ghost.webrip
+Name: WEBRIP
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: تحديث جديد
+Icon: https://up6.cc/2026/03/177481898515674.png
+Size: 10174498
+MD5sum: d16075ed518ac3042b206a69455c38dd
+SHA1: 914fa0c5dc1afd0ff9b0e514df11c75ce6bdc1cd
+SHA256: 2f5e0514a900c7eb92ee8caa1332d9dc8dd8b8ecec0e47ec9d38be41e4f8564d
+Filename: debs/com.ghost.webrip.deb
+Section: Utilities
+SileoDepiction: https://iosghost.github.io/depictions/com.ghost.webrip.json
+Author: Ghost Tech
