@@ -1,8 +1,8 @@
 Package: com.ghost.webrip
 Name: WEBRIP
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Description: تحديث جديد
+Version: 1.1
+Architecture: iphoneos-arm64e
+Description: WebRip يقوم بتحميل المواقع بالكامل بما فيها HTML، CSS، JavaScript، الصور، الخطوط، وملفات الوسائط. لا يحتاج أي مكتبات خارجية. يعمل فور التثبيت.
 Icon: https://up6.cc/2026/03/177481898515674.png
 Size: 10174498
 MD5sum: d16075ed518ac3042b206a69455c38dd
