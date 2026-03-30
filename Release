@@ -1,11 +1,11 @@
-Origin: 
-Label: 
+Origin: ghosttechxx
+Label: ghosttechxx
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 
+Description: ghosttechxx
 MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 Packages
  4059d198768f9f8dc9372dc1c54bc3c3 14 Packages.bz2

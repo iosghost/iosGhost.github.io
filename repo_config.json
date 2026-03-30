@@ -1,14 +1,14 @@
 {
   "release": {
-    "origin": "",
-    "label": "",
-    "description": ""
+    "origin": "ghosttechxx",
+    "label": "ghosttechxx",
+    "description": "ghosttechxx"
   },
   "depiction": {
-    "tintColor": "#000000"
+    "tintColor": "#f04af2"
   },
   "social": {
-    "twitter": "",
+    "twitter": "https://x.com/ghosttechxx",
     "telegram": "",
     "website": "",
     "discord": ""
