@@ -4,10 +4,10 @@
   "itemCornerRadius": 8,
   "banners": [
     {
-      "hideShadow": "true",
       "package": "com.ghost.webrip",
-      "title": "WEBRIP",
-      "url": "https://iosghost.github.io/assets/coverghost.jpeg"
+      "title": "WebRip",
+      "url": "https://b.top4top.io/p_3743y8pqh0.png",
+      "hideShadow": "true"
     }
   ]
 }
