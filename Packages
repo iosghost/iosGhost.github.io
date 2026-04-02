@@ -1,0 +1,14 @@
+Package: com.ghost.webrip
+Name: webrip Roothide
+Version: 2.0
+Architecture: iphoneos-arm64e
+Description: WebRip is a professional and advanced iOS tool designed to download entire websites or extract media content directly to your device. The application is powered by a customized wget engine, delivering high execution speed and reliable handling of complex links within an integrated and user-friendly terminal interface.  Key Features Full website download: Allows downloading complete websites including HTML, CSS, and JavaScript files for offline viewing Images only mode: Provides a dedicated mode to extract only images and media from any URL with case-insensitive extension detection Optimized wget engine: Includes a custom-built wget compiled for arm64 and arm64e architectures to ensure full compatibility and fast performance on both newer and older iPhone models Broad environment support: Works reliably on Rootful jailbreak, Rootless jailbreak, and TrollStore installations Advanced export and sharing: Enables exporting downloaded folders as a single organized ZIP archive with options to open directly in Filza or the native Files app Interactive terminal: Features a built-in terminal window to monitor download progress in real time with error logging and progress tracking
+Icon: https://c.top4top.io/p_374353rpc1.png
+Size: 6441950
+MD5sum: 142e87b038373277a255e2bf217f7bef
+SHA1: 952c95b7f21e1a339cddc82f339754d10c5f7455
+SHA256: 553caa7a0601471309e4202e48be6e4792f3df29bfd29ab9c184c2ddc558c534
+Filename: debs/com.ghost.webrip_2.0.deb
+Section: Ghost
+SileoDepiction: https://iosghost.github.io/depictions/com.ghost.webrip.json?v=2026-04-01_1837
+Author: GhostTechXx
