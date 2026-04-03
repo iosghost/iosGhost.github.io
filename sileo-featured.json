@@ -1,20 +1,20 @@
 {
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 8,
   "banners": [
     {
-      "hideShadow": "true",
-      "package": "com.ghost.webrip",
-      "title": "WebRip",
-      "url": "https://b.top4top.io/p_3743y8pqh0.png"
+      "package": "com.ghost.webrip.ar",
+      "title": "WEBRIP - ar",
+      "url": "https://b.top4top.io/p_3743y8pqh0.png",
+      "hideShadow": "true"
     },
     {
+      "hideShadow": "false",
       "package": "com.ghost.webrip",
-      "version": "2.0",
       "title": "WEBRIP v2.0",
       "url": "https://b.top4top.io/p_3743y8pqh0.png",
-      "hideShadow": "false"
+      "version": "2.0"
     }
-  ],
-  "class": "FeaturedBannersView",
-  "itemCornerRadius": 8,
-  "itemSize": "{263, 148}"
+  ]
 }
