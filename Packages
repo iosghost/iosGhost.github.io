@@ -27,8 +27,8 @@ MD5sum: 2d0a0ba3a802122620196e70b8d641f5
 SHA1: 3721767c26ca48fdaa4736c7c47b32ecbfc24be6
 SHA256: 241a85f3560ae2e30623267394359fce20b3fd6ef458c6192c3c819cb0d5d8b3
 Filename: debs/com.ghost.webrip.ar_2.0.deb
-Section: Applications
-SileoDepiction: https://iosghost.github.io/depictions/com.ghost.webrip.ar.json?v=2026-04-03_2344
+Section: Ghost Apps
+SileoDepiction: https://iosghost.github.io/depictions/com.ghost.webrip.ar.json?v=2026-04-03_2349
 Author: Ghost
 Maintainer: Ghost
 Depends: firmware (>= 13.0)
