@@ -20,7 +20,7 @@ Package: com.ghost.webrip.ar
 Name: WEBRIP - ar
 Version: 2.0
 Architecture: iphoneos-arm64e
-Description: Professional website downloader - Rip websites completely with integrated wget engine
+Description: WebRip هو أداة احترافية متقدمة مصممة لتمنحك تحكمًا كاملاً في تحميل المواقع الإلكترونية أو استخراج محتوى الوسائط منها مباشرة إلى جهازك. يعتمد التطبيق على محرك wget مخصص ومطور بعناية ليقدم سرعة عالية واستقرار قوي حتى مع الروابط المعقدة، ضمن واجهة تيرمنال عملية وسلسة تعطي تجربة استخدام احترافية حقيقية المميزات الرئيسية تحميل المواقع بالكامل إمكانية تنزيل الموقع بجميع ملفاته من HTML وCSS وJavaScript لتصفحه لاحقًا بدون اتصال بالإنترنت نمط استخراج الصور وضع ذكي مخصص لاستخراج الصور والوسائط فقط من أي رابط مع دعم كامل لجميع الامتدادات بدون التأثر بحالة الأحرف محرك تحميل مطور نسخة wget مخصصة تدعم معماريات arm64 وarm64e لتقديم أداء سريع وتوافق كامل مع مختلف الأجهزة دعم الأنظمة يعمل التطبيق على Rootful وRootless وRoothide سيتم توفير أداة مخصصة تدعم TrollStore قريبًا تصدير ومشاركة الملفات إمكانية تصدير الملفات والمجلدات كملف ZIP منظم مع دعم الفتح المباشر في Filza أو تطبيق الملفات الرسمي تيرمنال تفاعلي واجهة تيرمنال مدمجة تعرض تفاصيل التحميل لحظة بلحظة مع تتبع دقيق للتقدم وسجل أخطاء واضح
 Icon: https://c.top4top.io/p_374353rpc1.png
 Size: 6259304
 MD5sum: 2d0a0ba3a802122620196e70b8d641f5
@@ -28,7 +28,7 @@ SHA1: 3721767c26ca48fdaa4736c7c47b32ecbfc24be6
 SHA256: 241a85f3560ae2e30623267394359fce20b3fd6ef458c6192c3c819cb0d5d8b3
 Filename: debs/com.ghost.webrip.ar_2.0.deb
 Section: Applications
-SileoDepiction: https://iosghost.github.io/depictions/com.ghost.webrip.ar.json?v=2026-04-03_2342
+SileoDepiction: https://iosghost.github.io/depictions/com.ghost.webrip.ar.json?v=2026-04-03_2344
 Author: Ghost
 Maintainer: Ghost
 Depends: firmware (>= 13.0)
