@@ -18,5 +18,19 @@
     "discord": "",
     "custom_link_title": "",
     "custom_link_url": ""
+  },
+  "tech_info": {
+    "default_author": "",
+    "default_version": "",
+    "default_section": "",
+    "default_arch": "",
+    "label_author": "",
+    "label_version": "",
+    "label_section": "",
+    "label_arch": "",
+    "label_tech_header": "",
+    "default_icon": "",
+    "default_header": "",
+    "default_screenshot": ""
   }
 }
