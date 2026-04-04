@@ -1,16 +1,15 @@
 Package: com.ghost.webrip
-Name: WEBRIP - en
+Name: WEBRIP
 Version: 2.0
 Architecture: iphoneos-arm64e
-Description: WebRip is a professional and advanced tool designed to give you full control over downloading entire websites or extracting media content directly to your device. It is powered by a carefully optimized wget engine that delivers high speed and strong stability, even with complex links, within a clean and practical terminal interface Key Features Full website download Download complete websites including HTML, CSS, and JavaScript for offline browsing Images only mode Smart mode to extract images and media only with full case-insensitive extension support Optimized wget engine Custom-built wget supporting arm64 and arm64e architectures for high performance and wide compatibility Environment support Supports Rootful, Rootless, and Roothide environments A dedicated TrollStore-compatible version will be available soon Export and sharing Export downloaded content as organized ZIP files with direct access in Filza or the native Files app Interactive terminal Built-in terminal with real-time monitoring, detailed logs, and accurate progress tracking
-Icon: https://c.top4top.io/p_374353rpc1.png
+Description: Professional website downloader - Rip websites completely with integrated wget engine
 Size: 6259304
 MD5sum: 2d0a0ba3a802122620196e70b8d641f5
 SHA1: 3721767c26ca48fdaa4736c7c47b32ecbfc24be6
 SHA256: 241a85f3560ae2e30623267394359fce20b3fd6ef458c6192c3c819cb0d5d8b3
 Filename: debs/com.ghost.webrip_2.0.deb
-Section: Ghost Apps
-SileoDepiction: https://iosghost.github.io/depictions/com.ghost.webrip.json?v=2026-04-03_2348
+Section: Applications
+SileoDepiction: https://iosghost.github.io/depictions/com.ghost.webrip.json?v=2026-04-04_2026
 Author: Ghost
 Maintainer: Ghost
 Depends: firmware (>= 13.0)
