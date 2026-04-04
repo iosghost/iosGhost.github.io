@@ -1,3 +1,20 @@
+Package: byg.iosios.net.kayoko
+Name: Kayoko剪贴板神器
+Version: 3.0
+Architecture: iphoneos-arm64
+Description: 一款剪贴板神器，类似于Copylog和Nicelog，但是这是一块免费插件，非常的好用！支持复制图片到另一个软件，棒！其他开发者编译纯自用。适配多巴胺，此版本修改设置可以生效，自带中文翻译！82flex修复支持iOS16，非常的好用且免费，有问题请等更新修复！
+Size: 231458
+MD5sum: a9a710689acda3c186a5df668f5fc55d
+SHA1: dbad881c6af7c6a6f509853dc0f0d6f307eed8c2
+SHA256: d9c89d0a4fcae57b4d86eaa77c83f1d7d532cbe8a921baeb12bbb91a938d6225
+Filename: debs/byg.iosios.net.kayoko_3.0.deb
+Section: 系统增强
+SileoDepiction: https://iosghost.github.io/depictions/byg.iosios.net.kayoko.json?v=2026-04-04_2048
+Author: Traurige
+Maintainer: 搬运工
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Installed-Size: 952
+
 Package: com.ghost.webrip
 Name: WEBRIP - en
 Version: 2.0
